@@ -107,6 +107,10 @@ The following plugins are currently available:
 | *trestle-omniauth* | OmniAuth authentication plugin | [GitHub](https://github.com/airhorns/trestle-omniauth) \| [RubyGems](https://rubygems.org/gems/trestle-omniauth) |
 | *trestle-auth-otp* | 2FA/OTP user authentication | [GitHub](https://github.com/McRipper/trestle-auth-otp) \| [RubyGems](https://rubygems.org/gems/trestle-auth-otp) |
 
+## Development
+
+$ cd sandbox
+$ bundle exec puma
 
 ## License
 
